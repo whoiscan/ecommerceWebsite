@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone XR Dual Sim 3/256GB, White ",
+    "price": 8776000,
+    "img": "https://olcha.uz/image/200x200/NB3or7DynaibrE7SrWBErhrshLc94P6jkgXi02ORwgEwERBCqcDBsTwhwnSt.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "BQ 6200L Aurora Dark Gray",
+    "price": 2096000,
+    "img": "https://olcha.uz/image/200x200/KkgfM5aOAaSE2fao6iq7VFJ7XzTvYxnOxxqqVlR7I6p2epJQvm2ATe3KjrqX.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "BQ 6016L Mercury, Gold",
+    "price":1074000,
+    "img": "https://olcha.uz/image/200x200/Xj5ggj5489INU6FM8hcBjIEeK162vUnByCdZIthiv33iEx7mNUJW1Xf8KL2W.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "BQ 2441 Comfort, Blue",
+    "price": 290000,
+    "img": "https://olcha.uz/image/200x200/uSJuVC4CTuQezT25anM2ZT0hztuQ4HTyAqSixvg97yrUUufaSS4jhwE3W57y.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Apple iPhone X 3/64GB, Silver",
+    "price": 7072000,
+    "img": "https://olcha.uz/image/200x200/692gMP9m8WkteP9MvoHCARaYDA4suHqAJJmE2cizvyqFVzv3GjzMZdkKsupL.jpg"
+  },
+  {
+    "id": 6,
+    "name": "iPhone XS Max Dual 4/256GB, Gold",
+    "price": 11885000,
+    "img": "https://olcha.uz/image/200x200/n32DRjvnuIU2LNKIwnG2mYgHoU0piYCquUVcLojgkAlwoqTpGWlyIacJbOMG.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Acer Extensa 2519 Celeron Quad 3160 DDR3 2 GB/500GB HDD 15.6\" HD LED UMA",
+    "price": 2215000,
+    "img": "https://olcha.uz/image/200x200/qkTjiDBwEm0QOtphHF2T7JmrZAY7cLoz691KEj7zZJZ07YWI8efLkBaixbY5.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Asus X541N Intel Penium N4200 4GB DDR3/500GB HDD 15.6\" HD LED, UMA",
+    "price":2599000,
+    "img": "https://olcha.uz/image/200x200/UNQLoilhP2OJahHL1EyDlCZHLW1B2IeVTBpGMWqfn82pBcVrzL09ZBQcGePa.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Samsung 49M5070",
+    "price": 4090000,
+    "img": "https://olcha.uz/image/200x200/hmV4JRoF7eew9bxc9XAdND6mLlClpgJaxERYIIDTjUGbIG46zF6PIFNTagQf.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Shivaki LED 49' 9000",
+    "price": 3578000,
+    "img": "https://olcha.uz/image/200x200/Nvr2h8YvbSNCJ2fSkAn5xeCMkpW2Tut1FD0W8gTPQc7QePt8grP5rUjMq3KB.jpeg"
+  }
+]
